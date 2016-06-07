@@ -1,2 +1,2 @@
 # AtlasAndroid
-Communication App Sample with Atlas
+A Communication App Sample with Atlas
